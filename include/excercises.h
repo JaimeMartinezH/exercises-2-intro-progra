@@ -9,7 +9,7 @@ using namespace std;
 Prototipe for the exercise_1 function
 */
 void exercise_1(string s1);
-
+    
 /*
 Prototipe for the exercise_2 function
 */

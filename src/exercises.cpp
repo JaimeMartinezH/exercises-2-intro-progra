@@ -5,7 +5,7 @@
 using namespace std;
 
 void exercise_1(string s1) {
-  // TODO: YOUR CODE HERE
+  cout<<"Hola";
 }
 
 void exercise_2(string s1) {
