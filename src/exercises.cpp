@@ -6,6 +6,7 @@ using namespace std;
 
 void exercise_1(string s1) {
   cout<<"Hola";
+cout<<"Soy jaime inge";
 }
 
 void exercise_2(string s1) {
