@@ -5,7 +5,6 @@
 using namespace std;
 
 void exercise_1(string s1) {
-<<<<<<< HEAD
 #include <iostream>
 #include <string>
 #include <vector>
@@ -29,7 +28,7 @@ std::vector<int> encontrar_indices(const std::string & texto) {
 
 int main() {
     std::string texto;
-    std::cout << "Ingrese una línea de texto:" << std::endl;
+    std::cout << "Ingresa una línea de texto:" << std::endl;
     std::getline(std::cin, texto);
 
     std::vector<int> indices = encontrar_indices(texto);
