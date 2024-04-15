@@ -1,5 +1,5 @@
 #include <iostream>
-void practice(1);
+void practice(exercise_1(string s1));
 #include <iostream>
 #include <string>
 #include <vector>

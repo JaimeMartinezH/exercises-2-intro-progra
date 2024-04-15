@@ -43,6 +43,26 @@ int main() {
 
 void exercise_2(string s1) {
   // TODO: YOUR CODE HERE
+  #include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string input;
+    getline(cin, input);
+    string word = "";
+    
+    for (char c : input) {
+        if (c != ' ') {
+            word += c;
+        } else {
+            cout << "[" << word << "]";
+            word = "";
+        }
+    }
+    cout << "[" << word << "]"; 
+    return 0;
+}
 }
 
 void exercise_3(string s1) {
