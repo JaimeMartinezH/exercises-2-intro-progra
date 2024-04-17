@@ -1,14 +1,9 @@
-
 #include <cmath>
 #include <iostream>
 
 using namespace std;
 
 void exercise_1(string s1) {
-#include <iostream>
-#include <string>
-#include <vector>
-
 std::vector<int> encontrar_indices(const std::string & texto) {
     std::vector<int> indices;
     int indice = 0;
@@ -43,8 +38,7 @@ int main() {
 
 void exercise_2(string s1) {
   // TODO: YOUR CODE HERE
-  #include <iostream>
-#include <string>
+
 using namespace std;
 
 int main() {
